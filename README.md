@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soumyapro&label=Profile%20views&color=0e75b6&style=flat" alt="soumyapro" /> </p>
 
-- 🔭 I’m currently working on **Employee Leave Application**
+- 🔭 I’m currently working as **SDE intern in Avanseus**
 
 - 🌱 I’m currently learning **React and Spring Boot**
 
