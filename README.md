@@ -1,10 +1,8 @@
 <h1 align="center">Soumya Roy</h1>
 <h3 align="center">Machine Learning Engineer | Full-Stack Developer</h3>
-
 <p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1358/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" alt="Coding" width="450"/>
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="450"/>
 </p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=soumyapro&label=Profile%20Views&color=0e75b6&style=flat" alt="soumyapro" />
 </p>
