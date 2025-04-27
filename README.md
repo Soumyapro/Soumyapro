@@ -10,10 +10,10 @@
 ## About Me
 
 - 🎓 MSc in **Advanced Computer Science** at the **University of Liverpool**  
-- 🔬 Specialized in **Deep Learning** and intelligent systems  
+- 🔬 Specialized in **Deep Learning** and **Intelligent Systems**  
 - 💻 Proficient in **Machine Learning** and **Full-Stack Web Development**  
-- 📊 Currently expanding expertise in **DL models and algorithms**  
-- 💡 Ask me about **Deep Learning, DSA, and Web App Development**  
+- 📊 Currently expanding expertise in **Deep Learning models and Algorithms**  
+- 💡 Ask me about **Machine Learning, DSA, and Web App Development**  
 - 📧 Contact: **roysoumya321@gmail.com**  
 
 ## Connect with Me
@@ -47,6 +47,8 @@
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40"/>
 </p>
 
 ## GitHub Analytics
