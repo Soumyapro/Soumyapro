@@ -37,25 +37,10 @@ Open to research collaborations and discussions on explainability, uncertainty q
 | Category | Tools |
 |---|---|
 | **Machine Learning & AI** | PyTorch, TensorFlow, Scikit-learn, MONAI, OpenCV, NumPy, Pandas |
+| **NLP & LLMs** | LangChain, Transformers (Hugging Face), RAG, Prompt Engineering, Fine-tuning, Vector Databases (FAISS, Pinecone) |
 | **Languages** | Python, C++, JavaScript, HTML5, CSS3 |
 | **Web & Databases** | React, Node.js, Express, Spring Boot, MongoDB, MySQL |
 | **Tools & Platforms** | Git, Docker, Power BI, Postman |
-
-<br/>
-
-## GitHub Activity
-
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=soumyapro&show_icons=true&theme=default&hide_border=true&title_color=333333&icon_color=555555&text_color=333333&bg_color=ffffff" alt="GitHub Stats" />
-&nbsp;
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=soumyapro&theme=default&hide_border=true&background=ffffff&ring=333333&fire=555555&currStreakLabel=333333" alt="GitHub Streak" />
-
-<br/><br/>
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumyapro&layout=compact&theme=default&hide_border=true&title_color=333333&text_color=333333&bg_color=ffffff" alt="Top Languages" />
-
-</div>
 
 <br/>
 
