@@ -27,9 +27,8 @@ Open to research collaborations and discussions on explainability, uncertainty q
 
 - Explainable AI (XAI) and model interpretability
 - Trustworthy and robust deep learning
-- Medical image analysis (segmentation, classification)
 - Uncertainty estimation in neural networks
-
+- Robust model evaluation and generalisation
 <br/>
 
 ## Technical Skills
