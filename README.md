@@ -17,7 +17,7 @@ MSc Computer Science, University of Liverpool
 
 ## About
 
-I am an ML researcher specialising in explainable and trustworthy AI, currently completing my MSc in Computer Science at the University of Liverpool. My research sits at the intersection of deep learning, model interpretability, and medical imaging. I am actively seeking **PhD opportunities** where I can contribute to building reliable, transparent machine learning systems.
+I am an ML researcher specialising in explainable and trustworthy AI, having completed my MSc in Computer Science at the University of Liverpool. My research sits at the intersection of deep learning and model interpretability, with a focus on building reliable, transparent machine learning systems. I am actively seeking PhD opportunities to continue this work.
 
 Open to research collaborations and discussions on explainability, uncertainty quantification, and robust model evaluation.
 
